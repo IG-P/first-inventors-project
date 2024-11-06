@@ -1,0 +1,132 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-size:cover;
+  position: relative;
+  width: 1440px;
+  height: 887px;
+  left: 0px;
+  top: 0px;
+  background: url('rectangle1.png'), #8000FF;
+}
+nav ul {
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  list-style:none;
+  padding:0%;
+  margin:0%;
+}
+nav li {
+  height:27px;
+  padding:0% 30px;
+  display:flex;
+  align-items:center;
+  list-style:none;
+}
+nav li:first-of-type {
+  color:#ffffff;
+  margin-right: auto;
+  width:176px;
+  height:auto;
+  top:36px;
+  left:120px;
+  gap:0;
+  opacity:0px;
+  font-family:'Poppins';
+  font-size:18px;
+  font-weight:700px;
+  line-height:27px;
+  text-align:left;
+}
+
+nav li:nth-of-type(2) {
+  color:#ffffff;
+  width:54px;
+  height:auto;
+  top:36px;
+  left:758px;
+  gap:0;
+  opacity:0px;
+  font-family:'Poppins';
+  font-size:18px;
+  font-weight:400px;
+  line-height:27px;
+  text-align:left;
+  
+}
+nav li:nth-of-type(3) {
+  color:#ffffff;
+  width:75px;
+  height:auto;
+  top:36px;
+  left:875px;
+  gap:0;
+  opacity:0px;
+  font-family:'Poppins';
+  font-size:18px;
+  font-weight:400;
+  line-height:27px;
+  text-align:left;
+}
+nav li:nth-of-type(4) {
+  color: #ffffff;
+  width: 36px;
+  height: auto;
+  top: 36px;
+  left: 1013px;
+  gap: 0;
+  opacity: 0px;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+}
+nav li:nth-of-type(5) {
+  background: #650dbd;
+  color: #ffffff;
+  width: 208px;
+  height: 40px;
+  top: 29px;
+  left: 1112px;
+  gap: 0;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: left;
+}
+
+.hero{
+  color: #FFFFFF;
+  position: absolute;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 100px;
+  margin-left: 25%;
+  margin-top: 15%;
+}
+.hero-1{
+  position: center fixed;
+  margin-top: -10%;
+  margin-bottom: -10%;
+  margin-left: -10%;
+  margin-right: -10%;
+}
+
+/* Rectangle 1 */
+
+
+
+/* Go Big Or Go Home */
+
+
+/* or 111% */
+
+
+
