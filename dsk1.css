@@ -125,16 +125,13 @@ button {
 }
 
 .sub {
-    width: 168px;
-    height: 42px;
-    top: 634px;
-    left: 175px;
-    gap: 0px;
-    border-radius: 6px 0px 0px 0px;
-    opacity: 0px;
-    color: #FFFFFF;
-    background: #7F00FF;
-
-
-  }
-
+  width: 168px;
+  height: 42px;
+  top: 634px;
+  left: 175px;
+  gap: 0px;
+  border-radius: 6px 0px 0px 0px;
+  opacity: 0px;
+  color: #ffffff;
+  background: #7f00ff;
+}
